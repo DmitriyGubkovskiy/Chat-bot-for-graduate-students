@@ -1,0 +1,16 @@
+{
+  "states": {
+    "803713773": "greeting",
+    "674578948": "teacher_main"
+  },
+  "main": {},
+  "greeting": {},
+  "register_course": {},
+  "register_group": {},
+  "teacher_main": {},
+  "send_to_all": {},
+  "send_to_course": {},
+  "send_to_groups": {},
+  "choose_group": {},
+  "choose_course": {}
+}
